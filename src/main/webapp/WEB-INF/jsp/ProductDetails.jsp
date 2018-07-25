@@ -10,6 +10,7 @@
     <li>Product Name:${product.name}</li>
     <li>Description:${product.description}</li>
     <li>Price:$${product.price}</li>
+    <li>Flash Message:${message}</li>
 </div>
 </body>
 </html>
